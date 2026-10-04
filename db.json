@@ -59,7 +59,12 @@
       "salary": 8,
       "type": "Full-time",
       "description": "Build and maintain React applications with REST APIs.",
-      "employerId": 1
+      "employerId": 1,
+      "perks": [
+        "Hybrid work",
+        "Health cover",
+        "Learning budget"
+      ]
     },
     {
       "id": 2,
@@ -69,7 +74,12 @@
       "salary": 12,
       "type": "Full-time",
       "description": "Develop scalable Python services and APIs.",
-      "employerId": 1
+      "employerId": 1,
+      "perks": [
+        "Flexible hours",
+        "ESOPs",
+        "Home-office kit"
+      ]
     },
     {
       "id": 3,
@@ -79,7 +89,12 @@
       "salary": 3,
       "type": "Internship",
       "description": "Learn and build workflows on the Pega Platform.",
-      "employerId": 1
+      "employerId": 1,
+      "perks": [
+        "Monthly stipend",
+        "Mentorship",
+        "PPO chance"
+      ]
     },
     {
       "id": 4,
@@ -89,7 +104,11 @@
       "salary": 6,
       "type": "Part-time",
       "description": "Design clean interfaces and prototypes.",
-      "employerId": 1
+      "employerId": 1,
+      "perks": [
+        "Remote-first",
+        "Design tools budget"
+      ]
     },
     {
       "title": "kkmk",
@@ -118,5 +137,7 @@
       "jobId": 1,
       "id": 1
     }
-  ]
+  ],
+  "resumes": [],
+  "applications": []
 }
